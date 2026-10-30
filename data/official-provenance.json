@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-30",
+  "cli": {
+    "package": "@binance/agentic-wallet",
+    "version": "1.12.0",
+    "registry_source": "https://registry.npmjs.org/@binance%2fagentic-wallet/1.12.0",
+    "dist_matches_official_package": true,
+    "dist_sha256": "e63e2dff4a6d267d2375a0bbcdf518f10ddd04b0ffaff378c265a26f0961fe4f"
+  },
+  "skill": {
+    "source": "https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/binance-agentic-wallet",
+    "version": "1.15.0",
+    "SKILL_sha256": "9f72211e70232f16316557fa0c3161ca0f4d29f70e50c04d6e6638bf5c4dec85"
+  }
+}

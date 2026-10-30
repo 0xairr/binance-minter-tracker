@@ -1,0 +1,13 @@
+.official-skills/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+config.json
+AUTHORIZATION.local.md
+runtime/
+dist/
+.venv/
+*.egg-info/
+.pytest_cache/

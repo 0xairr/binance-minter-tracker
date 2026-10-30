@@ -1,0 +1,10 @@
+{
+  "source": "https://docs.google.com/spreadsheets/d/1jcKyWK1JJ8uBchTS3p1ok18DeB7yrDb2ZDxOaNYF73Q/export?format=csv",
+  "count": 4942,
+  "sha256": "ded0895559b5213d7da568ae49e16d3b9d8d8f4c03f17d8ae5a08830987f1706",
+  "retrieved_at": "2026-10-30",
+  "source_description": "User-supplied public Google Sheet CSV export; 4,942 unique lowercase EVM addresses",
+  "validated_column": "Wallet",
+  "wallet_column_matches_import": true,
+  "line_endings": "LF"
+}
